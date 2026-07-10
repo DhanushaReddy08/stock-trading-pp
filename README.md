@@ -6,7 +6,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-      
        https://sb-stocks-app.vercel.app/
 ---
 
